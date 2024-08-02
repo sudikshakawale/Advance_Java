@@ -5,3 +5,14 @@
 3. It includes the ****concepts**** like ****servlet , JDBC ,JSP ,RMI . Socket programming ,**** etc.
 4. It is ****specialization in specific domain.****
 5. Most of the *****apps developed using adv.Java uses tow-tier architecture***** , *****ie. client and server****.* *****All the apps that runs on server can be considered as adv.Java application.*****
+How java connected to Database
+
+_________________                    _________________  
+|   java app     |                         DB
+|name            |                    register
+|name            |
+|  xyz           |---------------
+|   dob          |
+|   12345        |
+|                |
+|________________|                     _________________ 
