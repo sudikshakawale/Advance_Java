@@ -7,12 +7,4 @@
 5. Most of the *****apps developed using adv.Java uses tow-tier architecture***** , *****ie. client and server****.* *****All the apps that runs on server can be considered as adv.Java application.*****
 How java connected to Database
 
-_________________                    _________________  
-|   java app     |                         DB
-|name            |                    register
-|name            |
-|  xyz           |---------------
-|   dob          |
-|   12345        |
-|                |
-|________________|                     _________________ 
+
