@@ -6,5 +6,7 @@
 4. It is ****specialization in specific domain.****
 5. Most of the *****apps developed using adv.Java uses tow-tier architecture***** , *****ie. client and server****.* *****All the apps that runs on server can be considered as adv.Java application.*****
 How java connected to Database
+   ![image](https://github.com/user-attachments/assets/c60d8067-4538-488a-9b09-2ed6980f8a25)
+
 
 
